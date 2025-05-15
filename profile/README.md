@@ -2,7 +2,7 @@
 
 ## I am writing to ...
 
-> _the vaccume of space_
+> _the vacuum of space_
 
 ## I am writing in order to ...
 
@@ -18,4 +18,4 @@ Participate in the broader tech community
 Force more tangible deliverables 
   - increase iterations 👉 deeper learning
   - enforces schedule
-  - incentivize scheduled & timeboxed project / topic deep dives 👉 broadening exposure to different approaches
+  - incentivize timeboxed project / topic deep dives 👉 broadening exposure to different approaches / perspectives
